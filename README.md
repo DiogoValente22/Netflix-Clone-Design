@@ -2,7 +2,7 @@
   Netflix UX/UI Clone
 </h1>
 
-<h2>Quick Start</h2>
+<h2>Getting Start</h2>
 Apénas abra o index.html em seu navegador e está pronto!
 
 <h2>💻 Técnologias usadas</h2>
